@@ -889,226 +889,226 @@ h4 {
 
 /*___stories background images____*/
 #mountains-story {
-  background-image: url("/app/assets/stories/mobile/mountains.jpg");
+  background-image: url("../assets/stories/mobile/mountains.jpg");
 }
 @media screen and (min-width: 550px) {
   #mountains-story {
-    background-image: url("/app/assets/stories/mobile-xl/mountains.jpg");
+    background-image: url("../assets/stories/mobile-xl/mountains.jpg");
   }
 }
 @media screen and (min-width: 1440px) {
   #mountains-story {
-    background-image: url("/app/assets/stories/desktop/mountains.jpg");
+    background-image: url("../assets/stories/desktop/mountains.jpg");
   }
 }
 
 #cityscapes-story {
-  background-image: url("/app/assets/stories/mobile/cityscapes.jpg");
+  background-image: url("../assets/stories/mobile/cityscapes.jpg");
 }
 @media screen and (min-width: 550px) {
   #cityscapes-story {
-    background-image: url("/app/assets/stories/mobile-xl/cityscapes.jpg");
+    background-image: url("../assets/stories/mobile-xl/cityscapes.jpg");
   }
 }
 @media screen and (min-width: 1440px) {
   #cityscapes-story {
-    background-image: url("/app/assets/stories/desktop/cityscapes.jpg");
+    background-image: url("../assets/stories/desktop/cityscapes.jpg");
   }
 }
 
 #eighteen-days-voyage-story {
-  background-image: url("/app/assets/stories/mobile/18-days-voyage.jpg");
+  background-image: url("../assets/stories/mobile/18-days-voyage.jpg");
 }
 @media screen and (min-width: 550px) {
   #eighteen-days-voyage-story {
-    background-image: url("/app/assets/stories/mobile-xl/18-days-voyage.jpg");
+    background-image: url("../assets/stories/mobile-xl/18-days-voyage.jpg");
   }
 }
 @media screen and (min-width: 1440px) {
   #eighteen-days-voyage-story {
-    background-image: url("/app/assets/stories/desktop/18-days-voyage.jpg");
+    background-image: url("../assets/stories/desktop/18-days-voyage.jpg");
   }
 }
 
 #architecturals-story {
-  background-image: url("/app/assets/stories/mobile/architecturals.jpg");
+  background-image: url("../assets/stories/mobile/architecturals.jpg");
 }
 @media screen and (min-width: 550px) {
   #architecturals-story {
-    background-image: url("/app/assets/stories/mobile-xl/architecturals.jpg");
+    background-image: url("../assets/stories/mobile-xl/architecturals.jpg");
   }
 }
 @media screen and (min-width: 1440px) {
   #architecturals-story {
-    background-image: url("/app/assets/stories/desktop/architecturals.jpg");
+    background-image: url("../assets/stories/desktop/architecturals.jpg");
   }
 }
 
 #world-tour-story {
-  background-image: url("/app/assets/stories/mobile/world-tour.jpg");
+  background-image: url("../assets/stories/mobile/world-tour.jpg");
 }
 @media screen and (min-width: 550px) {
   #world-tour-story {
-    background-image: url("/app/assets/stories/mobile-xl/world-tour.jpg");
+    background-image: url("../assets/stories/mobile-xl/world-tour.jpg");
   }
 }
 @media screen and (min-width: 1440px) {
   #world-tour-story {
-    background-image: url("/app/assets/stories/desktop/world-tour.jpg");
+    background-image: url("../assets/stories/desktop/world-tour.jpg");
   }
 }
 
 #unforeseen-corners-story {
-  background-image: url("/app/assets/stories/mobile/unforeseen-corners.jpg");
+  background-image: url("../assets/stories/mobile/unforeseen-corners.jpg");
 }
 @media screen and (min-width: 550px) {
   #unforeseen-corners-story {
-    background-image: url("/app/assets/stories/mobile-xl/unforeseen-corners.jpg");
+    background-image: url("../assets/stories/mobile-xl/unforeseen-corners.jpg");
   }
 }
 @media screen and (min-width: 1440px) {
   #unforeseen-corners-story {
-    background-image: url("/app/assets/stories/desktop/unforeseen-corners.jpg");
+    background-image: url("../assets/stories/desktop/unforeseen-corners.jpg");
   }
 }
 
 #king-on-africa-story {
-  background-image: url("/app/assets/stories/mobile/king-on-africa.jpg");
+  background-image: url("../assets/stories/mobile/king-on-africa.jpg");
 }
 @media screen and (min-width: 550px) {
   #king-on-africa-story {
-    background-image: url("/app/assets/stories/mobile-xl/king-on-africa.jpg");
+    background-image: url("../assets/stories/mobile-xl/king-on-africa.jpg");
   }
 }
 @media screen and (min-width: 1440px) {
   #king-on-africa-story {
-    background-image: url("/app/assets/stories/desktop/king-on-africa.jpg");
+    background-image: url("../assets/stories/desktop/king-on-africa.jpg");
   }
 }
 
 #trip-to-nowhere-story {
-  background-image: url("/app/assets/stories/mobile/trip-to-nowhere.jpg");
+  background-image: url("../assets/stories/mobile/trip-to-nowhere.jpg");
 }
 @media screen and (min-width: 550px) {
   #trip-to-nowhere-story {
-    background-image: url("/app/assets/stories/mobile-xl/trip-to-nowhere.jpg");
+    background-image: url("../assets/stories/mobile-xl/trip-to-nowhere.jpg");
   }
 }
 @media screen and (min-width: 1440px) {
   #trip-to-nowhere-story {
-    background-image: url("/app/assets/stories/desktop/trip-to-nowhere.jpg");
+    background-image: url("../assets/stories/desktop/trip-to-nowhere.jpg");
   }
 }
 
 #rage-of-the-sea-story {
-  background-image: url("/app/assets/stories/mobile/rage-of-the-sea.jpg");
+  background-image: url("../assets/stories/mobile/rage-of-the-sea.jpg");
 }
 @media screen and (min-width: 550px) {
   #rage-of-the-sea-story {
-    background-image: url("/app/assets/stories/mobile-xl/rage-of-the-sea.jpg");
+    background-image: url("../assets/stories/mobile-xl/rage-of-the-sea.jpg");
   }
 }
 @media screen and (min-width: 1440px) {
   #rage-of-the-sea-story {
-    background-image: url("/app/assets/stories/desktop/rage-of-the-sea.jpg");
+    background-image: url("../assets/stories/desktop/rage-of-the-sea.jpg");
   }
 }
 
 #running-free-story {
-  background-image: url("/app/assets/stories/mobile/running-free.jpg");
+  background-image: url("../assets/stories/mobile/running-free.jpg");
 }
 @media screen and (min-width: 550px) {
   #running-free-story {
-    background-image: url("/app/assets/stories/mobile-xl/running-free.jpg");
+    background-image: url("../assets/stories/mobile-xl/running-free.jpg");
   }
 }
 @media screen and (min-width: 1440px) {
   #running-free-story {
-    background-image: url("/app/assets/stories/desktop/running-free.jpg");
+    background-image: url("../assets/stories/desktop/running-free.jpg");
   }
 }
 
 #behind-the-waves-story {
-  background-image: url("/app/assets/stories/mobile/behind-the-waves.jpg");
+  background-image: url("../assets/stories/mobile/behind-the-waves.jpg");
 }
 @media screen and (min-width: 550px) {
   #behind-the-waves-story {
-    background-image: url("/app/assets/stories/mobile-xl/behind-the-waves.jpg");
+    background-image: url("../assets/stories/mobile-xl/behind-the-waves.jpg");
   }
 }
 @media screen and (min-width: 1440px) {
   #behind-the-waves-story {
-    background-image: url("/app/assets/stories/desktop/behind-the-waves.jpg");
+    background-image: url("../assets/stories/desktop/behind-the-waves.jpg");
   }
 }
 
 #calm-waters-story {
-  background-image: url("/app/assets/stories/mobile/calm-waters.jpg");
+  background-image: url("../assets/stories/mobile/calm-waters.jpg");
 }
 @media screen and (min-width: 550px) {
   #calm-waters-story {
-    background-image: url("/app/assets/stories/mobile-xl/calm-waters.jpg");
+    background-image: url("../assets/stories/mobile-xl/calm-waters.jpg");
   }
 }
 @media screen and (min-width: 1440px) {
   #calm-waters-story {
-    background-image: url("/app/assets/stories/desktop/calm-waters.jpg");
+    background-image: url("../assets/stories/desktop/calm-waters.jpg");
   }
 }
 
 #milky-way-story {
-  background-image: url("/app/assets/stories/mobile/milky-way.jpg");
+  background-image: url("../assets/stories/mobile/milky-way.jpg");
 }
 @media screen and (min-width: 550px) {
   #milky-way-story {
-    background-image: url("/app/assets/stories/mobile-xl/milky-way.jpg");
+    background-image: url("../assets/stories/mobile-xl/milky-way.jpg");
   }
 }
 @media screen and (min-width: 1440px) {
   #milky-way-story {
-    background-image: url("/app/assets/stories/desktop/milky-way.jpg");
+    background-image: url("../assets/stories/desktop/milky-way.jpg");
   }
 }
 
 #dark-forest-story {
-  background-image: url("/app/assets/stories/mobile/dark-forest.jpg");
+  background-image: url("../assets/stories/mobile/dark-forest.jpg");
 }
 @media screen and (min-width: 550px) {
   #dark-forest-story {
-    background-image: url("/app/assets/stories/mobile-xl/dark-forest.jpg");
+    background-image: url("../assets/stories/mobile-xl/dark-forest.jpg");
   }
 }
 @media screen and (min-width: 1440px) {
   #dark-forest-story {
-    background-image: url("/app/assets/stories/desktop/dark-forest.jpg");
+    background-image: url("../assets/stories/desktop/dark-forest.jpg");
   }
 }
 
 #somwarpet-story {
-  background-image: url("/app/assets/stories/mobile/somwarpet.jpg");
+  background-image: url("../assets/stories/mobile/somwarpet.jpg");
 }
 @media screen and (min-width: 550px) {
   #somwarpet-story {
-    background-image: url("/app/assets/stories/mobile-xl/somwarpet.jpg");
+    background-image: url("../assets/stories/mobile-xl/somwarpet.jpg");
   }
 }
 @media screen and (min-width: 1440px) {
   #somwarpet-story {
-    background-image: url("/app/assets/stories/desktop/somwarpet.jpg");
+    background-image: url("../assets/stories/desktop/somwarpet.jpg");
   }
 }
 
 #land-of-dreams-story {
-  background-image: url("/app/assets/stories/mobile/land-of-dreams.jpg");
+  background-image: url("../assets/stories/mobile/land-of-dreams.jpg");
 }
 @media screen and (min-width: 550px) {
   #land-of-dreams-story {
-    background-image: url("/app/assets/stories/mobile-xl/land-of-dreams.jpg");
+    background-image: url("../assets/stories/mobile-xl/land-of-dreams.jpg");
   }
 }
 @media screen and (min-width: 1440px) {
   #land-of-dreams-story {
-    background-image: url("/app/assets/stories/desktop/land-of-dreams.jpg");
+    background-image: url("../assets/stories/desktop/land-of-dreams.jpg");
   }
 }
 

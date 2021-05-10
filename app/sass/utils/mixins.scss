@@ -1,5 +1,5 @@
 @mixin set-background-image($name){
-    $path: "/app/assets/stories";
+    $path: "../assets/stories";
 
     background-image: url($path + "/mobile/" + $name + ".jpg");
 
