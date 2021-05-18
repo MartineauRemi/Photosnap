@@ -41,7 +41,6 @@
 
     &__logo{
         grid-area: logo;
-        
         img{
             width: 10.625rem;
             height: 1rem;
@@ -53,6 +52,16 @@
 
         @media screen and (min-width: 1440px){
             align-self: start;
+        }
+    }
+
+    &__logo-container{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        @media screen and (min-width: 768px){
+            justify-content: flex-start;
         }
     }
 
@@ -82,7 +91,8 @@
             height: 100%;
             display: block;
             background-repeat: no-repeat;
-            background-size: cover;
+            background-size: 1.25rem;
+            background-position: center;
         }
 
         #facebook a{

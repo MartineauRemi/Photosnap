@@ -619,6 +619,16 @@ h4 {
     align-self: start;
   }
 }
+.footer__logo-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+@media screen and (min-width: 768px) {
+  .footer__logo-container {
+    justify-content: flex-start;
+  }
+}
 .footer__social-medias {
   display: flex;
   flex-direction: row;
@@ -646,7 +656,8 @@ h4 {
   height: 100%;
   display: block;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: 1.25rem;
+  background-position: center;
 }
 .footer__social-medias #facebook a {
   background-image: url("../assets/shared/desktop/facebook-white.svg");
